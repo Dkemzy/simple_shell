@@ -119,6 +119,7 @@ char *_strdup(char *);
 int _strlen(char *);
 int _putchar(char);
 int string_to_int(char *s);
+int mul(int a, int b);
 
 
 /* For deleting blank spaces */
